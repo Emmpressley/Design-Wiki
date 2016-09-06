@@ -1,1 +1,1 @@
-# Design-Wiki
+# Design Wiki
