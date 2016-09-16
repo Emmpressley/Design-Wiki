@@ -1,6 +1,6 @@
 # Design Wiki
 
-[The Design Wiki](https://github.com/18F/Design-Wiki/wiki) is a shared repository of sample design artifacts that have been produced at 18F (such as content audits, moodboards, wireframes, and style guides).The wiki is a “living” repository; it will continue to expand and change as people make contributions. 
+[The Design Wiki](https://github.com/18F/Design-Wiki/wiki) is a shared repository of sample design artifacts that have been produced at 18F (such as content audits, moodboards, wireframes, and style guides). The wiki is a “living” repository; it will continue to expand and change as people make contributions. 
 
 ##Contributing to this wiki
 
